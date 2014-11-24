@@ -1,0 +1,7 @@
+name: ChatBroadcast
+main: com.zephyrusgaming.chatbroadcast
+version: 1.0
+  commands:
+    basic:
+      description: This is a command to test if I can do stuff.
+      usage: /test
